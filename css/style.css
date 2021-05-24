@@ -34,4 +34,5 @@ html, body {
     border-radius: 5px;
     width: 125px;
     height: 40px;
+    display: none;
 }
